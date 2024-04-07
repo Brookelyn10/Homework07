@@ -1,4 +1,8 @@
-HELLO THERE CSCI-C151
+<<<<<<< HEAD
+HELLO THERE
+=======
+HELLO THERE ENG-W131
+>>>>>>> fc239b82b4f1b34b405e48ef822ea223a1a74707
 Hello
 How are you?
 I am good.
